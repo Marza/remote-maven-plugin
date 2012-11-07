@@ -37,5 +37,6 @@ Just spawned this idea so there is some work to do :)
 Useful information
 ---------
 
-GIT for incremental transfer - http://blog.hashpling.org/git-as-a-general-purpose-backup-utility/
+Git for incremental transfer - http://blog.hashpling.org/git-as-a-general-purpose-backup-utility/
+Git submodule - http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
 
