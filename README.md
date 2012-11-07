@@ -14,6 +14,7 @@ How does it work
 ----------
 
 You add the plugin definition to your pom.xml file and then run the plugin goal. This triggers the process of transfering your project to the remote location and then executing the Maven goals on the remote location.
+The idea is to connect to the server with SSH and run the Maven command there. Transfering files should be made incrementally and just sending the changes to save bandwith and time.
 
 
 Why
