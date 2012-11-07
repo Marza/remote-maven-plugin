@@ -32,3 +32,10 @@ Project status
 ---------
 
 Just spawned this idea so there is some work to do :)
+
+
+Useful information
+---------
+
+GIT for incremental transfer - http://blog.hashpling.org/git-as-a-general-purpose-backup-utility/
+
