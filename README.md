@@ -6,8 +6,10 @@ Just drop in this plugin into your existing Maven project and start running your
 Requirements
 ----------
 
-* a server with Maven installed
-* a client with Maven installed
+Could change but this is what I aim for.
+
+* a server with Maven and Git installed
+* a client with Maven and Git installed
 
 
 How does it work
@@ -25,18 +27,18 @@ Why
 * The entire team will use the same JDK and Maven version, no more missmatch.
 * Run server on Linux and have access to all the JDK builds while running the client on a Mac.
 * Upgrade server and all developers builds are upgraded aswell.
-* Possible to use cheaper, lighter and not so powerful client hardware. Code on a Asus Eee Pc, Macbook Air or suits you.
+* Possible to use cheaper, lighter and not so powerful client hardware. Code on a Asus Eee Pc, Macbook Air or whatever suits you.
 
 
 Project status
 ---------
 
-Just spawned this idea so there is some work to do :)
+Just spawned this idea so there is still some work to do :)
 
 
 Useful information
 ---------
 
-Git for incremental transfer - http://blog.hashpling.org/git-as-a-general-purpose-backup-utility/
-Git submodule - http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
+* Git for incremental transfer - http://blog.hashpling.org/git-as-a-general-purpose-backup-utility/
+* Git submodule - http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
 
